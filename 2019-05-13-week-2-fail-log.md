@@ -16,3 +16,4 @@ I'm not sure that I did everything completely right, but I think that I got most
 # Exercise 4 - 
 Definitely more difficult
 This one got me stumped. I got through the first couple (4.1 and 4.2) but once I got to 4.3 I got lost. I'll come back and try to       reattempt what I started. 
+After some time away from the computer, I came back to try and continue with 4.3. I'm not sure if I did something wrong in 4.1 and 4.2 but now 4.3 seems harder. I was able to get past a couple of steps the first time I tried it, but now I'm not able to. 
