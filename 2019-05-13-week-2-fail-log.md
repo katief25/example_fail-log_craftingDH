@@ -13,6 +13,6 @@ This one looked a bit more itimidating with all the coding, but much to my surpr
 This one also went well thankfully
 I'm not sure that I did everything completely right, but I think that I got most of it
   
-# Exercuse 4 - 
+# Exercise 4 - 
 Definitely more difficult
 This one got me stumped. I got through the first couple (4.1 and 4.2) but once I got to 4.3 I got lost. I'll come back and try to       reattempt what I started. 
