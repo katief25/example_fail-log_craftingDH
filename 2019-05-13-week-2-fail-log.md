@@ -4,6 +4,7 @@ Open source notebooks seems like a useful and efficient way for everyone to have
 Starting off rough
 I do not understand what I am supposed to do for the Creative Common images, and what 4 links I am supposed to provide
 Hoping this becomes more clear soon
+I'm trying to link the images, and it isn't working. I've tried multiple urls and I'm not sure what I'm doing wrong at this point.  
   
 # Exercise 2 - 
 This one has gone well, I got through this exercise will very few problems
