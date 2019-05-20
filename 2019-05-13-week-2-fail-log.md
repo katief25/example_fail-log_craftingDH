@@ -5,6 +5,7 @@ Starting off rough
 I do not understand what I am supposed to do for the Creative Common images, and what 4 links I am supposed to provide
 Hoping this becomes more clear soon
 I'm trying to link the images, and it isn't working. I've tried multiple urls and I'm not sure what I'm doing wrong at this point.  
+My [first annotation](https://hyp.is/AS7n4nnTEemU2gfqui8b5g/workbook.craftingdigitalhistory.ca/module-1/Exercises/), that helped me out a lot this week was when I asked for help with this exercise. I wasn't sure what I was supposed to do, and thankfully a classmate responded and helped me out. After getting a response, I was able to move forward with the assignment.  
   
 # Exercise 2 - 
 This one has gone well, I got through this exercise will very few problems
